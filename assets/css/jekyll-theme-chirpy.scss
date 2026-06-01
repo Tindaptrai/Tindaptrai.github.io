@@ -424,3 +424,117 @@ input.form-control::placeholder,
   background: transparent !important;
   color: #cbd5e1 !important;
 }
+/* ===== Final Override: Wider Sidebar + Clean Search ===== */
+
+/* 1. Kéo rộng sidebar trên desktop */
+@media (min-width: 1200px) {
+  :root {
+    --sidebar-width: 340px;
+  }
+
+  #sidebar {
+    width: 340px !important;
+    min-width: 340px !important;
+    max-width: 340px !important;
+  }
+
+  #main-wrapper {
+    margin-left: 340px !important;
+  }
+
+  #topbar-wrapper {
+    left: 340px !important;
+  }
+}
+
+/* 2. Cho tên không bị xuống dòng */
+#sidebar .site-title,
+#sidebar .site-title a {
+  white-space: nowrap !important;
+  font-size: 1.45rem !important;
+  line-height: 1.3 !important;
+  letter-spacing: 0.2px !important;
+}
+
+/* Nếu vẫn hơi dài thì giảm nhẹ font */
+@media (min-width: 1200px) and (max-width: 1500px) {
+  #sidebar .site-title,
+  #sidebar .site-title a {
+    font-size: 1.35rem !important;
+  }
+}
+
+/* 3. Làm subtitle gọn giống Kevin */
+#sidebar .site-subtitle {
+  white-space: nowrap !important;
+  font-size: 0.95rem !important;
+  color: #93c5fd !important;
+}
+
+/* 4. Search box: bỏ ô đen kỳ bên trong, giữ style xám sạch */
+#topbar #search,
+#topbar #search-wrapper,
+#topbar .search,
+#topbar .search-wrapper,
+#topbar form,
+#search,
+#search-wrapper {
+  background: #161b22 !important;
+  border: 1px solid #30363d !important;
+  border-radius: 999px !important;
+  box-shadow: none !important;
+  overflow: hidden !important;
+}
+
+/* Input bên trong search phải trong suốt */
+#search-input,
+#topbar #search-input,
+#topbar input[type="search"],
+input[type="search"],
+input.form-control,
+.form-control {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: 0 !important;
+  outline: none !important;
+  box-shadow: none !important;
+  color: #c9d1d9 !important;
+}
+
+/* Icon/search addon nếu có */
+#topbar .input-group-text,
+#search .input-group-text,
+#search-wrapper .input-group-text,
+.search .input-group-text {
+  background: transparent !important;
+  border: 0 !important;
+  color: #8b949e !important;
+}
+
+/* Placeholder search */
+#search-input::placeholder,
+input[type="search"]::placeholder,
+input.form-control::placeholder,
+.form-control::placeholder {
+  color: #8b949e !important;
+}
+
+/* 5. Xóa nền đen sau description bài viết */
+.post-preview p,
+.post-preview .post-content,
+.post-preview .post-content p,
+.post-preview .post-content span,
+.post-preview .preview,
+.post-preview .preview p,
+.post-preview .preview span {
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+/* Description màu dịu hơn */
+.post-preview p,
+.post-preview .post-content,
+.post-preview .preview {
+  color: #cbd5e1 !important;
+}
