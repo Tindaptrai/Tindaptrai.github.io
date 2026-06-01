@@ -41,6 +41,17 @@ pagination:
     before: 2
     after: 2
 
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
 collections:
   tabs:
     output: true
