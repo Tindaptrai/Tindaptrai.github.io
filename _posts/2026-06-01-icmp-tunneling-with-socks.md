@@ -1,16 +1,10 @@
 ---
 layout: post
-title: ICMP Tunneling with SOCKS
+title: "ICMP Tunneling with SOCKS"
 date: 2026-06-01 20:30:00 +0700
-categories:
-  - Network Security
-  - HTB
-tags:
-  - icmp
-  - tunneling
-  - socks
-  - pivoting
-description: Ghi chú lab về ICMP tunneling và SOCKS proxy trong môi trường hợp pháp.
+categories: [Network Security, HTB]
+tags: [icmp, tunneling, socks, pivoting]
+description: "Ghi chú lab về ICMP tunneling và SOCKS proxy trong môi trường hợp pháp."
 toc: true
 ---
 

@@ -1,16 +1,10 @@
 ---
 layout: post
-title: Hashcat Cheatsheet
+title: "Hashcat Cheatsheet"
 date: 2026-06-01 21:00:00 +0700
-categories:
-  - Cheatsheet
-  - Password Security
-tags:
-  - hashcat
-  - password
-  - cracking
-  - cheatsheet
-description: Cheatsheet Hashcat cho lab password security và kiểm thử hợp pháp.
+categories: [Cheatsheet, Password Security]
+tags: [hashcat, password, cracking, cheatsheet]
+description: "Cheatsheet Hashcat cho lab password security và kiểm thử hợp pháp."
 toc: true
 ---
 
