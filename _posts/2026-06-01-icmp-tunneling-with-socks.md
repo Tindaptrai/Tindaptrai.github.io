@@ -17,6 +17,14 @@ ICMP tunneling là kỹ thuật đóng gói traffic vào ICMP để đi qua môi
 > Chỉ thực hành trong lab được phép. Không dùng kỹ thuật tunneling để vượt kiểm soát trên hệ thống không thuộc quyền kiểm tra.
 {: .prompt-warning }
 
+## Tóm tắt
+
+| Thành phần | Vai trò |
+| --- | --- |
+| ICMP | Kênh vận chuyển trong lab bị giới hạn TCP/UDP |
+| SOCKS proxy | Cho phép công cụ đi qua tunnel |
+| Detection | Theo dõi payload, tần suất và host bất thường |
+
 ## Khi nào cần nghĩ tới tunneling?
 
 - Host nội bộ không truy cập trực tiếp được từ máy attacker.

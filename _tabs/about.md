@@ -7,7 +7,7 @@ order: 4
 
 Xin chào, tôi là **Nguyễn Lê Trọng Tín**, người đang học và ghi chép về **Cyber Security**.
 
-Blog này là nơi tôi hệ thống lại quá trình học về **SOC**, **Hack The Box**, **DFIR**, **Network Security** và **Linux**. Nội dung tập trung vào ghi chú kỹ thuật, writeup lab, cheatsheet, quy trình phân tích sự cố và các bài học thực hành.
+Blog này là nơi tôi hệ thống lại quá trình học về **SOC**, **Hack The Box**, **DFIR**, **Network Security**, **Linux** và **Web Security**. Nội dung tập trung vào ghi chú kỹ thuật, writeup lab, cheatsheet, quy trình phân tích sự cố và các bài học thực hành.
 
 ## Hướng học chính
 
@@ -16,6 +16,7 @@ Blog này là nơi tôi hệ thống lại quá trình học về **SOC**, **Hac
 - DFIR cơ bản: timeline, log analysis, artifact review.
 - Network Security: traffic analysis, tunneling, detection idea.
 - Linux fundamentals cho pentest và blue team.
+- Web Security: HTTP, authentication, input validation và common vulnerability.
 
 ## Mục tiêu của blog
 

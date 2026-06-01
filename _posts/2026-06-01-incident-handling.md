@@ -14,6 +14,14 @@ description: Ghi chú quy trình xử lý sự cố cho SOC analyst mới học.
 
 Incident handling là quy trình giúp SOC analyst chuyển từ cảnh báo rời rạc sang hành động có kiểm soát. Mục tiêu không chỉ là đóng alert, mà là hiểu chuyện gì đã xảy ra, phạm vi ảnh hưởng ở đâu và cần khắc phục như thế nào.
 
+## Tóm tắt
+
+| Phase | Mục tiêu | Output |
+| --- | --- | --- |
+| Identification | Xác định alert có đáng tin không | Initial triage notes |
+| Containment | Giảm phạm vi ảnh hưởng | Isolated host/user/block rule |
+| Recovery | Đưa hệ thống về trạng thái an toàn | Clean host và monitoring plan |
+
 ## 1. Preparation
 
 - Chuẩn bị playbook cho các nhóm sự cố phổ biến như phishing, malware, brute force và data exfiltration.

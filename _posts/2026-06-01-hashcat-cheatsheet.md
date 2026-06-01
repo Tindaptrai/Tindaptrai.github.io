@@ -14,6 +14,14 @@ description: Cheatsheet Hashcat cho lab password security và kiểm thử hợp
 
 Hashcat là công cụ phục hồi mật khẩu mạnh, thường dùng trong lab password security để kiểm tra độ yếu của hash, wordlist và rule. Chỉ sử dụng với dữ liệu thuộc quyền kiểm thử hợp pháp.
 
+## Tóm tắt mode
+
+| Hash type | Mode | Ghi chú |
+| --- | --- | --- |
+| MD5 | 0 | Hash cơ bản trong lab |
+| NTLM | 1000 | Thường gặp trong Windows lab |
+| bcrypt | 3200 | Chậm hơn, cần tối ưu wordlist |
+
 ## Kiểm tra thiết bị
 
 ```bash
