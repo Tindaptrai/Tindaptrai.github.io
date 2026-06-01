@@ -4,8 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Giới thiệu
+# About
 
-Mình là Nguyễn Lê Trọng Tín, đang học Cyber Security.
+Hi, I'm Nguyễn Lê Trọng Tín.
 
-Blog này dùng để ghi chú học tập, HTB write-up, SOC, DFIR, Network Security, Linux và Web Security.
+I am learning and building notes around **SOC analysis**, **network security**, **DFIR**, **HTB**, **Linux**, and **web security**.
+
+This blog is my place to document labs, write-ups, detection notes, and cybersecurity learning progress.
