@@ -355,3 +355,72 @@ footer,
 .card-wrapper {
   background-color: #0b1a30 !important;
 }
+/* ===== Final cleanup: search + post excerpt fix ===== */
+
+/* Giữ search màu xám/đen mặc định, không neon quá */
+#search-input,
+input[type="search"],
+input.form-control,
+.form-control {
+  background-color: #161b22 !important;
+  border: 1px solid #30363d !important;
+  color: #c9d1d9 !important;
+  box-shadow: none !important;
+}
+
+#search-input::placeholder,
+input[type="search"]::placeholder,
+input.form-control::placeholder,
+.form-control::placeholder {
+  color: #8b949e !important;
+}
+
+/* Xóa nền đen xấu sau đoạn mô tả bài viết */
+.post-preview p,
+.post-preview .post-content,
+.post-preview .post-meta,
+.post-preview .post-meta span,
+.post-preview .post-meta a,
+.post-preview .post-meta em,
+.post-preview .post-meta time,
+.post-preview div,
+.post-preview span {
+  background: transparent !important;
+  background-color: transparent !important;
+}
+
+/* Card bài viết đồng bộ màu */
+.post-preview {
+  background: #0b1a30 !important;
+  border: 1px solid rgba(56, 189, 248, 0.45) !important;
+  border-radius: 10px !important;
+  box-shadow: 0 0 12px rgba(56, 189, 248, 0.12) !important;
+}
+
+/* Text trong card */
+.post-preview h1,
+.post-preview h2,
+.post-preview h3,
+.post-preview a {
+  color: #dbeafe !important;
+}
+
+.post-preview p {
+  color: #cbd5e1 !important;
+}
+
+/* Metadata trong card */
+.post-preview .post-meta,
+.post-preview .post-meta a,
+.post-preview .post-meta span,
+.post-preview .post-meta time {
+  color: #94a3b8 !important;
+}
+
+/* Không cho đoạn description bị highlight đen */
+.post-preview .post-content,
+.post-preview .post-content p,
+.post-preview .post-content span {
+  background: transparent !important;
+  color: #cbd5e1 !important;
+}
