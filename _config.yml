@@ -2,12 +2,19 @@ title: "Nguyễn Lê Trọng Tín"
 tagline: "Cyber Security Student | SOC | HTB Learner"
 description: "Personal cybersecurity notes, HTB writeups, SOC labs and DFIR learning."
 
-url: "https://USERNAME.github.io"
+url: "https://tindaptrai.github.io"
+baseurl: "/trongtin.github.io"
+
+github:
+  username: Tindaptrai
+
+social:
+  name: Nguyễn Lê Trọng Tín
+  email: ""
+  links:
+    - "https://github.com/Tindaptrai"
 
 avatar: "/assets/img/avatar.png"
 
-github:
-  username: USERNAME
-
-twitter:
-  username: your_twitter
+timezone: Asia/Ho_Chi_Minh
+lang: vi-VN
