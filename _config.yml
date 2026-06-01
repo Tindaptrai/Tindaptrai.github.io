@@ -2,8 +2,8 @@
 tagline: "SOC Analyst • Network Security Analyst"
 description: "Personal cybersecurity notes, HTB writeups, SOC labs and DFIR learning."
 
-url: "https://tindaptrai.github.io"
-baseurl: "/trongtin.github.io"
+url: "https://tindaptrai.github.io""
+baseurl: ""
 
 github:
   username: Tindaptrai
