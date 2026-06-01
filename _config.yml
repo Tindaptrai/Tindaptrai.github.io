@@ -44,3 +44,11 @@ collections:
   tabs:
     output: true
     sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/

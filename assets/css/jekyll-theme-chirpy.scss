@@ -296,3 +296,77 @@ footer,
 .post-content {
   background-color: #06111f !important;
 }
+/* ===== Force topbar/search/background color fix ===== */
+
+html,
+body,
+#main-wrapper,
+#core-wrapper,
+#topbar-wrapper,
+#topbar,
+#panel-wrapper,
+#tail-wrapper,
+main,
+.content,
+.container,
+.container-fluid {
+  background-color: #06111f !important;
+}
+
+/* Topbar line */
+#topbar-wrapper,
+#topbar {
+  background: #06111f !important;
+  border-bottom: 1px solid rgba(56, 189, 248, 0.28) !important;
+}
+
+/* Search wrapper */
+#search,
+#search-wrapper,
+.search-wrapper,
+.search {
+  background: transparent !important;
+}
+
+/* Search input - Chirpy variants */
+#search-input,
+input[type="search"],
+input.form-control,
+.form-control {
+  background-color: #071426 !important;
+  border: 1px solid rgba(56, 189, 248, 0.45) !important;
+  color: #dbeafe !important;
+  box-shadow: 0 0 10px rgba(56, 189, 248, 0.12) !important;
+}
+
+#search-input::placeholder,
+input[type="search"]::placeholder,
+input.form-control::placeholder,
+.form-control::placeholder {
+  color: #64748b !important;
+}
+
+/* Remove gray strips */
+body::before,
+body::after,
+#main-wrapper::before,
+#core-wrapper::before,
+#topbar-wrapper::before {
+  background: #06111f !important;
+}
+
+/* Footer fix */
+footer,
+#footer,
+#tail-wrapper {
+  background: #06111f !important;
+  border-top: 1px solid rgba(56, 189, 248, 0.25) !important;
+}
+
+/* Fix post card hover gray overlay */
+.post-preview,
+.post-preview:hover,
+.card,
+.card-wrapper {
+  background-color: #0b1a30 !important;
+}
