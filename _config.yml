@@ -1,8 +1,8 @@
 ﻿title: "Nguyễn Lê Trọng Tín"
-tagline: "SOC Analyst • Network Security Analyst"
-description: "Personal cybersecurity notes, HTB writeups, SOC labs and DFIR learning."
+tagline: "SOC Analyst * Network Analyst"
+description: "Personal cybersecurity notes, SOC analysis, network security, HTB writeups and DFIR learning."
 
-url: "https://tindaptrai.github.io""
+url: "https://tindaptrai.github.io"
 baseurl: ""
 
 github:
@@ -16,7 +16,7 @@ social:
 avatar: "/assets/img/avatar.png"
 
 timezone: Asia/Ho_Chi_Minh
-lang: vi-VN
+lang: en
 
 theme: jekyll-theme-chirpy
 
