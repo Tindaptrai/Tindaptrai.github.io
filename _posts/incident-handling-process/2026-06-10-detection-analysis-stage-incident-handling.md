@@ -1,11 +1,10 @@
-\---
-
+---
 layout: post
-title: "Detection \& Analysis Stage trong Incident Handling"
+title: "Detection & Analysis Stage trong Incident Handling"
 date: 2026-06-10 23:12:00 +0700
-categories: \[SOC, Incident Response]
-tags: \[soc, incident-response, detection-analysis, cyber-kill-chain, mitre-attack, timeline, blue-team, thehive]
-description: "Ghi chú về giai đoạn Detection \& Analysis trong Incident Handling, cách phát hiện incident, xây dựng context, timeline, đánh giá mức độ nghiêm trọng và giao tiếp trong quá trình điều tra."
+categories: [SOC, Incident Response]
+tags: [soc, incident-response, detection-analysis, cyber-kill-chain, mitre-attack, timeline, blue-team, thehive]
+description: "Ghi chú về giai đoạn Detection & Analysis trong Incident Handling, cách phát hiện incident, xây dựng context, timeline, đánh giá mức độ nghiêm trọng và giao tiếp trong quá trình điều tra."
 toc: true
 ---
 
@@ -495,4 +494,3 @@ Giai đoạn **Detection \& Analysis** giúp SOC/IR chuyển một alert rời r
 Analyst không nên chỉ nhìn alert đơn lẻ, mà cần thu thập thêm context, hiểu asset, user, thời gian, business impact và các sự kiện liên quan.
 
 Timeline, MITRE ATT\&CK mapping, incident confidentiality và communication rõ ràng là những yếu tố quan trọng giúp quá trình điều tra chính xác và có tổ chức hơn.
-
