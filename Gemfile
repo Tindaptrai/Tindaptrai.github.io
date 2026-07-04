@@ -11,7 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-archives"
-  gem "jekyll-paginate-v2"
+  gem "jekyll-paginate"
 end
 
 platforms :windows, :jruby do
