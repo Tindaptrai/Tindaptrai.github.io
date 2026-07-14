@@ -3,7 +3,7 @@ layout: post
 title: "802.11 Denial-of-Service"
 date: 2026-07-14 22:47:08 +0700
 categories: ["Intermediate Network Traffic Analysis"]
-tags: [wifi, 80211, deauthentication, denial-of-service, monitor-mode, airodump-ng, wireshark, wids, wips, threat-hunting, incident-response, cdsa]
+tags: [wifi, "80211", deauthentication, denial-of-service, monitor-mode, airodump-ng, wireshark, wids, wips, threat-hunting, incident-response, cdsa]
 description: "Phân tích 802.11 deauthentication DoS: monitor mode, capture Wi-Fi frames, Wireshark filters, reason-code rotation và biện pháp 802.11w/WPA3."
 toc: true
 ---
