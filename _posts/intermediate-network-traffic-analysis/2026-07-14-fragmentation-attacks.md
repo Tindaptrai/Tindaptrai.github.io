@@ -2,7 +2,7 @@
 layout: post
 title: "Fragmentation Attacks"
 date: 2026-07-14 23:07:02 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Layer 2 & Network Attacks"]
 tags: [ip-fragmentation, fragmented-packets, ids-evasion, ips-evasion, firewall-evasion, denial-of-service, nmap, wireshark, packet-analysis, threat-hunting, incident-response, cdsa]
 description: "Phân tích IP Fragmentation Attacks: fragment offset, tiny fragments, IDS/IPS/firewall evasion, DoS, Wireshark reassembly và dấu hiệu one-host-to-many-ports."
 toc: true

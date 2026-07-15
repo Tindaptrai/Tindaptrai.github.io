@@ -2,7 +2,7 @@
 layout: post
 title: "ARP Spoofing & Abnormality Detection"
 date: 2026-07-14 22:46:16 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Layer 2 & Network Attacks"]
 tags: [arp, arp-spoofing, arp-poisoning, mitm, denial-of-service, wireshark, tcpdump, packet-analysis, threat-hunting, incident-response, cdsa]
 description: "Phân tích ARP Spoofing và ARP Poisoning bằng Wireshark/tcpdump: duplicate IP, IP-to-MAC mismatch, TCP anomalies và quy trình phản ứng."
 toc: true

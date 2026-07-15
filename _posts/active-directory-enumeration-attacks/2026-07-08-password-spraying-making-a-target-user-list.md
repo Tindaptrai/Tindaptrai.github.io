@@ -2,7 +2,7 @@
 layout: post
 title: "Password Spraying - Making a Target User List"
 date: 2026-07-08 01:24:08 +0700
-categories: ["Active Directory Enumeration & Attacks"]
+categories: ["Active Directory Enumeration & Attacks", "Credential Attacks"]
 tags: [active-directory, ad-enumeration-attacks, password-spraying, user-enumeration, smb-null-session, ldap-anonymous-bind, enum4linux, rpcclient, crackmapexec, kerbrute, windapsearch, ldapsearch, badpwdcount, blue-team, red-team]
 description: "Tóm tắt bài Password Spraying - Making a Target User List: xây dựng danh sách user hợp lệ bằng SMB NULL session, LDAP anonymous bind, Kerbrute, CrackMapExec và credentialed enumeration trước khi password spraying."
 toc: true

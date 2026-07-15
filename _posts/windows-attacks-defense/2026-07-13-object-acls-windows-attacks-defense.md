@@ -2,7 +2,7 @@
 layout: post
 title: "Object ACLs"
 date: 2026-07-13 23:26:30 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Defense"]
 tags: [active-directory, windows-attacks-defense, object-acls, ace, dacl, sacl, bloodhound, sharphound, adaclscanner, genericall, genericwrite, writedacl, writeowner, forcechangepassword, event-4724, event-4738, event-4742, event-5136, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Tóm tắt Object ACLs trong Active Directory: ACL/ACE/DACL/SACL, các quyền có thể bị lạm dụng, phân tích bằng SharpHound/BloodHound, prevention và detection bằng Windows Security logs."
 toc: true

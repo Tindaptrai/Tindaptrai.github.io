@@ -2,7 +2,7 @@
 layout: post
 title: "Active Directory Enumeration & Attacks: External Recon and Enumeration Principles"
 date: 2026-07-06 22:49:21 +0700
-categories: ["Active Directory Enumeration & Attacks"]
+categories: ["Active Directory Enumeration & Attacks", "Enumeration"]
 tags: [active-directory, ad-enumeration-attacks, external-recon, enumeration, osint, dns, asn, ip-space, username-harvesting, breach-data, scope-validation, blue-team, red-team]
 description: "Tóm tắt ngắn bài mới Active Directory Enumeration & Attacks: External Recon and Enumeration Principles, gồm OSINT, ASN/IP, DNS, public data, username format, breach data và nguyên tắc enumeration đúng scope."
 toc: true

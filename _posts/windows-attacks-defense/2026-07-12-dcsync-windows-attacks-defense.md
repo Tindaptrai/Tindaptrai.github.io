@@ -2,7 +2,7 @@
 layout: post
 title: "DCSync"
 date: 2026-07-12 22:28:27 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Defense"]
 tags: [active-directory, windows-attacks-defense, dcsync, mimikatz, directory-replication, event-4662, replication-rights, ntlm, kerberos, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Tóm tắt DCSync trong Windows Attacks & Defense: quyền replication cần thiết, Mimikatz, Event ID 4662, prevention, detection engineering và incident response."
 toc: true

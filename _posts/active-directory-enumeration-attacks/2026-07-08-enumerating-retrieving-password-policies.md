@@ -2,7 +2,7 @@
 layout: post
 title: "Enumerating & Retrieving Password Policies"
 date: 2026-07-08 00:17:12 +0700
-categories: ["Active Directory Enumeration & Attacks"]
+categories: ["Active Directory Enumeration & Attacks", "Enumeration"]
 tags: [active-directory, ad-enumeration-attacks, password-policy, smb, null-session, ldap, rpcclient, enum4linux, enum4linux-ng, crackmapexec, powerview, net-accounts, password-spraying, blue-team, red-team]
 description: "Tóm tắt bài Enumerating & Retrieving Password Policies: lấy password policy từ Linux/Windows bằng credentialed access, SMB NULL session, LDAP anonymous bind, rpcclient, enum4linux, enum4linux-ng, net.exe và PowerView."
 toc: true

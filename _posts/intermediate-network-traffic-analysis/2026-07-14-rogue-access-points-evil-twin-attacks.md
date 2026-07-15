@@ -2,7 +2,7 @@
 layout: post
 title: "Rogue Access Points & Evil-Twin Attacks"
 date: 2026-07-14 22:54:57 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Layer 2 & Network Attacks"]
 tags: [wifi, rogue-access-point, evil-twin, "80211", airodump-ng, wireshark, beacon-frame, rsn, hostile-portal, wireless-security, threat-hunting, incident-response, cdsa]
 description: "Phân tích Rogue Access Point và Evil-Twin: phát hiện bằng Airodump-ng, Beacon/RSN comparison, xác định client bị ảnh hưởng và quy trình ứng phó."
 toc: true

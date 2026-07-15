@@ -2,7 +2,7 @@
 layout: post
 title: "Peculiar DNS Traffic"
 date: 2026-07-15 00:26:35 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "DNS Analysis"]
 tags: [dns, dns-enumeration, dns-tunneling, data-exfiltration, command-and-control, dga, txt-records, wireshark, tshark, suricata, zeek, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Phân tích DNS traffic bất thường: DNS enumeration, TXT-based tunneling, encoded exfiltration, DGA, Wireshark/Tshark filters, SIEM detection và incident response."
 toc: true

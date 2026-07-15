@@ -2,7 +2,7 @@
 layout: post
 title: "Credentialed Enumeration - from Linux"
 date: 2026-07-09 00:25:53 +0700
-categories: ["Active Directory Enumeration & Attacks"]
+categories: ["Active Directory Enumeration & Attacks", "Enumeration"]
 tags: [active-directory, ad-enumeration-attacks, credentialed-enumeration, linux, crackmapexec, netexec, smbmap, rpcclient, impacket, psexec, wmiexec, windapsearch, bloodhound, bloodhound-python, blue-team, red-team]
 description: "Tóm tắt bài Credentialed Enumeration from Linux: dùng credential thấp quyền để enumerate AD bằng CrackMapExec/NetExec, SMBMap, rpcclient, Impacket, Windapsearch và BloodHound.py."
 toc: true

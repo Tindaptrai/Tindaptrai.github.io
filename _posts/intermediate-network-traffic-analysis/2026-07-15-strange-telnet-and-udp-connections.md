@@ -2,7 +2,7 @@
 layout: post
 title: "Strange Telnet & UDP Connections"
 date: 2026-07-15 00:33:14 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Tunneling & Exfiltration"]
 tags: [telnet, udp, tunneling, data-exfiltration, command-and-control, non-standard-port, ipv6, wireshark, tshark, suricata, zeek, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Phân tích Telnet và UDP bất thường: Telnet port 23, Telnet trên cổng lạ, IPv6 tunneling, UDP exfiltration, Wireshark/Tshark hunting và SIEM detection."
 toc: true

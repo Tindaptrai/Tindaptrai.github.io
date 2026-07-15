@@ -2,7 +2,7 @@
 layout: post
 title: "Credentials in Object Properties"
 date: 2026-07-12 22:00:53 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Attacks"]
 tags: [active-directory, windows-attacks-defense, object-properties, description, info, cleartext-credentials, powershell, event-4624, event-4625, event-4738, event-4768, event-4771, event-4776, splunk, elk, sigma, threat-hunting, cdsa]
 description: "Tóm tắt Credentials in Object Properties: credential bị lưu trong Description/Info của AD objects, cách tìm bằng PowerShell, prevention, behavior-based detection và honeypot account."
 toc: true

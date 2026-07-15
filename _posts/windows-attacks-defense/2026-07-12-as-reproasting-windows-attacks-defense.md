@@ -2,7 +2,7 @@
 layout: post
 title: "AS-REProasting"
 date: 2026-07-12 20:59:00 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Internals & Authentication"]
 tags: [active-directory, windows-attacks-defense, kerberos, as-reproasting, rubeus, hashcat, event-4768, rc4, preauthentication, honeypot, splunk, elk, sigma, threat-hunting, cdsa]
 description: "Tóm tắt AS-REProasting: Kerberos pre-authentication, Rubeus, Hashcat mode 18200, Event ID 4768, prevention và SOC detection."
 toc: true

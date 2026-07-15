@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Attacks & Defense - Introduction and Terminology"
 date: 2026-07-09 00:51:52 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Internals & Authentication"]
 tags: [active-directory, windows-security, windows-attacks-defense, cdsa, soc, incident-response, threat-hunting, ldap, kerberos, smb, gpo, sysvol, laps, splunk, elk, sigma]
 description: "Tóm tắt phần Introduction and Terminology của Windows Attacks & Defense: Active Directory, domain/tree/forest, Kerberos, LDAP, privileged groups, logon types, network ports và góc nhìn phòng thủ SOC/CDSA."
 toc: true

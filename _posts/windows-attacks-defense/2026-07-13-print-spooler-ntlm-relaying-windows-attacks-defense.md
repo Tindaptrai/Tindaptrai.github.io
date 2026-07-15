@@ -2,7 +2,7 @@
 layout: post
 title: "Print Spooler & NTLM Relaying"
 date: 2026-07-13 22:28:18 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Detection & Monitoring"]
 tags: [active-directory, windows-attacks-defense, print-spooler, printerbug, ntlm-relay, ntlmrelayx, dcsync, smb-signing, unconstrained-delegation, adcs, rbcd, event-4624, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Tóm tắt Print Spooler & NTLM Relaying: PrinterBug, coerced authentication, NTLM relay tới DCSync/AD CS/RBCD, prevention và detection bằng logon-source correlation."
 toc: true

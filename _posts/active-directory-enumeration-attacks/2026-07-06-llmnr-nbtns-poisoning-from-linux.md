@@ -2,7 +2,7 @@
 layout: post
 title: "LLMNR/NBT-NS Poisoning from Linux"
 date: 2026-07-06 23:34:58 +0700
-categories: ["Active Directory Enumeration & Attacks"]
+categories: ["Active Directory Enumeration & Attacks", "Credential Attacks"]
 tags: [active-directory, ad-enumeration-attacks, llmnr, nbtns, mdns, responder, netntlmv2, hashcat, credential-capture, poisoning, mitm, blue-team, red-team]
 description: "Tóm tắt ngắn bài LLMNR/NBT-NS Poisoning from Linux: cơ chế LLMNR/NBT-NS, Responder, bắt NetNTLMv2 hash, crack bằng Hashcat và các lưu ý phòng thủ trong môi trường AD."
 toc: true

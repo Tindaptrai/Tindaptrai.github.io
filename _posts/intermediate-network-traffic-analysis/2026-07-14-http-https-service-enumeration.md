@@ -2,7 +2,7 @@
 layout: post
 title: "HTTP/HTTPS Service Enumeration"
 date: 2026-07-14 23:51:10 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Web Traffic Analysis"]
 tags: [http, https, web-enumeration, directory-fuzzing, content-discovery, idor, access-logs, wireshark, apache, nginx, waf, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Phân tích HTTP/HTTPS service enumeration: directory fuzzing, 404 bursts, parameter and IDOR probing, Wireshark filters, access-log hunting, SIEM detection và WAF hardening."
 toc: true

@@ -2,7 +2,7 @@
 layout: post
 title: "Coercing Attacks & Unconstrained Delegation"
 date: 2026-07-13 22:54:24 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Internals & Authentication"]
 tags: [active-directory, windows-attacks-defense, coercer, coerced-authentication, unconstrained-delegation, rubeus, mimikatz, dcsync, kerberos, tgt, rpc, smb, firewall, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Tóm tắt Coercing Attacks & Unconstrained Delegation: ép Domain Controller xác thực tới host có Unconstrained Delegation, thu TGT, abuse DCSync, prevention bằng RPC firewall và outbound SMB filtering."
 toc: true

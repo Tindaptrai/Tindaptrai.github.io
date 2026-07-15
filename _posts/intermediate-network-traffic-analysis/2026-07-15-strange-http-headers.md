@@ -2,7 +2,7 @@
 layout: post
 title: "Strange HTTP Headers"
 date: 2026-07-15 00:00:16 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Web Traffic Analysis"]
 tags: [http, http-headers, host-header-manipulation, request-smuggling, crlf-injection, apache, reverse-proxy, wireshark, waf, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Phân tích HTTP header bất thường: Host header manipulation, unusual methods, User-Agent anomalies, HTTP 400, CRLF/request smuggling, detection và hardening."
 toc: true

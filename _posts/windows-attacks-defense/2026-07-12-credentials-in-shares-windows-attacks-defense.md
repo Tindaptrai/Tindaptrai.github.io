@@ -2,7 +2,7 @@
 layout: post
 title: "Credentials in Shares"
 date: 2026-07-12 21:45:44 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Attacks"]
 tags: [active-directory, windows-attacks-defense, network-shares, credentials, powershell, findstr, powerview, invoke-sharefinder, hidden-shares, event-4624, event-4625, event-4768, event-4771, event-4776, splunk, elk, sigma, threat-hunting, cdsa]
 description: "Tóm tắt Credentials in Shares: tìm credential trong network shares, hidden shares, Invoke-ShareFinder, findstr, prevention, detection theo hành vi và honeypot service account."
 toc: true

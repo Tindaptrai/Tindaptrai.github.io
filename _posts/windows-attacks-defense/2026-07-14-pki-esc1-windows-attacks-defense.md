@@ -2,7 +2,7 @@
 layout: post
 title: "PKI - ESC1"
 date: 2026-07-14 00:09:30 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Detection & Monitoring"]
 tags: [active-directory, windows-attacks-defense, adcs, pki, esc1, certificate-templates, certify, rubeus, pkinit, event-4886, event-4887, event-4768, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Tóm tắt PKI ESC1: certificate template misconfiguration, SAN abuse, Certify, PKINIT, prevention và detection bằng Event ID 4886, 4887 và 4768."
 toc: true

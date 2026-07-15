@@ -2,7 +2,7 @@
 layout: post
 title: "ARP Scanning & Denial-of-Service"
 date: 2026-07-14 22:46:43 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Layer 2 & Network Attacks"]
 tags: [arp, arp-scanning, denial-of-service, arp-poisoning, host-discovery, wireshark, tshark, pcap, threat-hunting, incident-response, cdsa]
 description: "Phân tích ARP scanning và ARP-based DoS: sequential probing, live-host discovery, duplicate gateway IP và quy trình containment."
 toc: true

@@ -2,7 +2,7 @@
 layout: post
 title: "Golden Ticket"
 date: 2026-07-12 22:32:42 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Internals & Authentication"]
 tags: [active-directory, windows-attacks-defense, kerberos, golden-ticket, krbtgt, mimikatz, dcsync, pass-the-ticket, event-4624, event-4625, event-4769, event-4675, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Tóm tắt Golden Ticket trong Windows Attacks & Defense: vai trò của krbtgt, forged TGT, Mimikatz, prevention, detection theo hành vi và quy trình reset krbtgt hai lần."
 toc: true

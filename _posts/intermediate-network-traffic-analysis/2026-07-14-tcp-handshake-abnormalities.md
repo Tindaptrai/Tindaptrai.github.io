@@ -2,7 +2,7 @@
 layout: post
 title: "TCP Handshake Abnormalities"
 date: 2026-07-14 23:30:49 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Layer 2 & Network Attacks"]
 tags: [tcp, tcp-handshake, syn-scan, stealth-scan, null-scan, ack-scan, fin-scan, xmas-scan, nmap, wireshark, tshark, suricata, zeek, threat-hunting, incident-response, cdsa]
 description: "Phân tích bất thường TCP handshake: SYN, NULL, ACK, FIN và Xmas scans; Wireshark filters, detection logic, Suricata/Zeek hunting và incident response."
 toc: true

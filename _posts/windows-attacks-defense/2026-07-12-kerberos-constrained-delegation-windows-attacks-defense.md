@@ -2,7 +2,7 @@
 layout: post
 title: "Kerberos Constrained Delegation"
 date: 2026-07-12 22:45:26 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Internals & Authentication"]
 tags: [active-directory, windows-attacks-defense, kerberos, constrained-delegation, s4u, rubeus, powerview, protected-users, event-4624, event-4768, event-4769, event-5136, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Tóm tắt Kerberos Constrained Delegation: mô hình delegation, abuse S4U với Rubeus, prevention bằng Sensitive Account/Protected Users và detection theo hành vi Kerberos."
 toc: true

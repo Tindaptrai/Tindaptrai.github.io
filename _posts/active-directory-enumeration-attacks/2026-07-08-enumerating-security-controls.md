@@ -2,7 +2,7 @@
 layout: post
 title: "Enumerating Security Controls"
 date: 2026-07-08 23:45:52 +0700
-categories: ["Active Directory Enumeration & Attacks"]
+categories: ["Active Directory Enumeration & Attacks", "Enumeration"]
 tags: [active-directory, ad-enumeration-attacks, security-controls, windows-defender, applocker, constrained-language-mode, laps, powerview, post-foothold-enumeration, blue-team, red-team]
 description: "Tóm tắt bài Enumerating Security Controls: kiểm tra Defender, AppLocker, PowerShell Constrained Language Mode và LAPS trong môi trường Active Directory sau khi có foothold."
 toc: true

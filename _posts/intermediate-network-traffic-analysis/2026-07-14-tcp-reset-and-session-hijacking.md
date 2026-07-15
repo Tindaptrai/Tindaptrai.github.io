@@ -2,7 +2,7 @@
 layout: post
 title: "TCP Reset and Session Hijacking"
 date: 2026-07-14 23:36:34 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Layer 2 & Network Attacks"]
 tags: [tcp, tcp-reset, rst-injection, session-hijacking, sequence-number, arp-poisoning, wireshark, tshark, suricata, zeek, threat-hunting, incident-response, cdsa]
 description: "Phân tích TCP RST injection và TCP session hijacking: dấu hiệu RST bất thường, IP-MAC mismatch, sequence/ACK anomalies, retransmission và quy trình phát hiện ứng phó."
 toc: true

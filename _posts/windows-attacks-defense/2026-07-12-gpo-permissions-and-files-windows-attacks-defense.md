@@ -2,7 +2,7 @@
 layout: post
 title: "GPO Permissions and GPO Files"
 date: 2026-07-12 21:28:07 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Defense"]
 tags: [active-directory, windows-attacks-defense, gpo, group-policy, sysvol, permissions, acl, event-5136, event-4725, honeypot, powershell, splunk, elk, sigma, threat-hunting, cdsa]
 description: "Tóm tắt GPO Permissions and GPO Files: rủi ro quyền sửa GPO hoặc file được GPO triển khai, detection bằng Event ID 5136, honeypot GPO và phản ứng tự động với Event ID 4725."
 toc: true

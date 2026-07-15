@@ -2,7 +2,7 @@
 layout: post
 title: "Initial Enumeration of the Domain"
 date: 2026-07-06 23:36:56 +0700
-categories: ["Active Directory Enumeration & Attacks"]
+categories: ["Active Directory Enumeration & Attacks", "Enumeration"]
 tags: [active-directory, ad-enumeration-attacks, initial-enumeration, internal-pentest, wireshark, tcpdump, responder, fping, nmap, kerbrute, kerberos, domain-controller, blue-team, red-team]
 description: "Tóm tắt bài Initial Enumeration of the Domain: thiết lập internal pentest, passive/active host discovery, Wireshark, tcpdump, Responder analyze mode, fping, Nmap, Kerbrute user enumeration và các lưu ý scope khi kiểm thử AD."
 toc: true

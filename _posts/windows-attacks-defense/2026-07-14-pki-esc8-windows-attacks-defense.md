@@ -2,7 +2,7 @@
 layout: post
 title: "PKI - ESC8"
 date: 2026-07-14 00:24:23 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Detection & Monitoring"]
 tags: [active-directory, windows-attacks-defense, adcs, pki, esc8, ntlm-relay, ntlmrelayx, printerbug, web-enrollment, pkinit, rubeus, dcsync, event-4624, event-4768, event-4886, event-4887, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Tóm tắt PKI ESC8: relay NTLM tới AD CS Web Enrollment để lấy certificate của Domain Controller, dùng PKINIT lấy TGT, thực hiện DCSync và phát hiện bằng Event ID 4886, 4887, 4768 và 4624."
 toc: true

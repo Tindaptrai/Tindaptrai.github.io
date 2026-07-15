@@ -2,7 +2,7 @@
 layout: post
 title: "ICMP Tunneling"
 date: 2026-07-14 23:45:30 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Tunneling & Exfiltration"]
 tags: [icmp, icmp-tunneling, data-exfiltration, command-and-control, covert-channel, fragmentation, wireshark, tshark, suricata, zeek, splunk, elk, sigma, threat-hunting, incident-response, cdsa]
 description: "Phân tích ICMP Tunneling: dữ liệu bị nhúng trong Echo Request/Reply, payload bất thường, fragmentation, Base64, detection bằng Wireshark/Tshark/Suricata/Zeek và quy trình ứng phó."
 toc: true

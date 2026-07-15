@@ -2,7 +2,7 @@
 layout: post
 title: "IP Time-to-Live Attacks"
 date: 2026-07-14 23:21:58 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Layer 2 & Network Attacks"]
 tags: [ip-ttl, time-to-live, ttl-evasion, firewall-evasion, ids-evasion, ips-evasion, port-scanning, icmp-time-exceeded, wireshark, tshark, suricata, zeek, threat-hunting, incident-response, cdsa]
 description: "Phân tích IP Time-to-Live attacks: TTL manipulation, firewall/IDS evasion, ICMP Time Exceeded, Wireshark filters, detection logic và hardening."
 toc: true

@@ -2,7 +2,7 @@
 layout: post
 title: "Kerberoasting"
 date: 2026-07-10 22:48:13 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Internals & Authentication"]
 tags: [active-directory, windows-attacks-defense, kerberos, kerberoasting, tgs, spn, rubeus, hashcat, john, event-4769, rc4, aes, honeypot, sigma, splunk, elk, threat-hunting, cdsa]
 description: "Tóm tắt Kerberoasting: SPN, TGS, Rubeus, cracking TGS hash, prevention bằng gMSA/strong password và detection bằng Event ID 4769."
 toc: true

@@ -2,7 +2,7 @@
 layout: post
 title: "IP Source & Destination Spoofing Attacks"
 date: 2026-07-14 23:17:18 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Layer 2 & Network Attacks"]
 tags: [ip-spoofing, source-spoofing, destination-spoofing, decoy-scanning, random-source-ddos, smurf-attack, land-attack, fragmentation, wireshark, tshark, ids, ips, firewall, threat-hunting, incident-response, cdsa]
 description: "Phân tích IP source/destination spoofing: decoy scanning, random-source DDoS, SMURF, LAND, Wireshark filters, detection logic và response."
 toc: true

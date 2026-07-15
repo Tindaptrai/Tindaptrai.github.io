@@ -2,7 +2,7 @@
 layout: post
 title: "GPP Passwords"
 date: 2026-07-12 21:12:10 +0700
-categories: ["Windows Attacks & Defense"]
+categories: ["Windows Attacks & Defense", "Windows Attacks"]
 tags: [active-directory, windows-attacks-defense, gpp, sysvol, cpassword, powersploit, event-4663, event-4624, event-4625, event-4771, event-4776, splunk, elk, sigma, threat-hunting, cdsa]
 description: "Tóm tắt GPP Passwords trong Windows Attacks & Defense: credential trong SYSVOL, cpassword, Get-GPPPassword, prevention, file-access auditing, logon correlation và honeypot detection."
 toc: true

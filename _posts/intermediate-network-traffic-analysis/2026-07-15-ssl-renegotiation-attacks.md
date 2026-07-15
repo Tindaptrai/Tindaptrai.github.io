@@ -2,7 +2,7 @@
 layout: post
 title: "SSL Renegotiation Attacks"
 date: 2026-07-15 00:14:16 +0700
-categories: ["Intermediate Network Traffic Analysis"]
+categories: ["Intermediate Network Traffic Analysis", "Encrypted & Unusual Traffic"]
 tags: [tls, ssl, renegotiation, https, handshake, client-hello, denial-of-service, cipher-suites, wireshark, tshark, suricata, zeek, splunk, elk, threat-hunting, incident-response, cdsa]
 description: "Phân tích SSL/TLS renegotiation attacks: nhiều ClientHello, handshake bất thường, resource exhaustion, Wireshark filters, SIEM detection và hardening."
 toc: true
