@@ -2,7 +2,7 @@
 layout: post
 title: "Snort Fundamentals"
 date: 2026-07-15 23:47:53 +0700
-categories: ["Working with IDS/IPS"]
+categories: ["Working with IDS/IPS", "Snort"]
 tags: [snort, snort3, ids, ips, nsm, daq, libdaq, snort-lua, appid, packet-inspection, alerting, rule-management, detection-engineering, threat-hunting, incident-response, cdsa]
 description: "Tổng quan Snort 3: kiến trúc IDS/IPS, DAQ, snort.lua, preprocessors/inspectors, PCAP và live input, rule loading, alert outputs, statistics và quy trình kiểm thử."
 toc: true

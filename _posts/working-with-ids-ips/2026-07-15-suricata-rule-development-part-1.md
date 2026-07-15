@@ -2,7 +2,7 @@
 layout: post
 title: "Suricata Rule Development Part 1"
 date: 2026-07-15 23:05:33 +0700
-categories: ["Working with IDS/IPS"]
+categories: ["Working with IDS/IPS", "Suricata"]
 tags: [suricata, rule-development, ids, ips, pcre, sticky-buffers, detection-filter, powershell-empire, covenant, sliver, detection-engineering, threat-hunting, incident-response, cdsa]
 description: "Cấu trúc rule Suricata, content matching, flow, dsize, offset/depth, distance/within, PCRE và các ví dụ phát hiện C2."
 toc: true

@@ -2,7 +2,7 @@
 layout: post
 title: "Suricata Fundamentals"
 date: 2026-07-15 15:14:48 +0700
-categories: ["Working with IDS/IPS"]
+categories: ["Working with IDS/IPS", "Suricata"]
 tags: [suricata, ids, ips, nsm, eve-json, af-packet, nfqueue, pcap, file-extraction, protocol-anomalies, detection-engineering, splunk, elk, threat-hunting, incident-response, cdsa]
 description: "Suricata fundamentals: IDS/IPS/NSM, PCAP and live input, EVE JSON, custom rules, anomaly detection, file extraction, ruleset updates and validation."
 toc: true

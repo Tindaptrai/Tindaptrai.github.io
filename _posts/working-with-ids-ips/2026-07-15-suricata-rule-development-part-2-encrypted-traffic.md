@@ -2,7 +2,7 @@
 layout: post
 title: "Suricata Rule Development Part 2 – Encrypted Traffic"
 date: 2026-07-15 23:18:27 +0700
-categories: ["Working with IDS/IPS"]
+categories: ["Working with IDS/IPS", "Suricata"]
 tags: [suricata, tls, ssl, encrypted-traffic, x509, ja3, dridex, sliver, detection-engineering, threat-hunting, malware-analysis, incident-response, splunk, elk, cdsa]
 description: "Phát triển rule Suricata cho lưu lượng mã hóa bằng TLS certificate metadata, X.509 OID, JA3 fingerprint, beaconing và SIEM correlation."
 toc: true
